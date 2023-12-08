@@ -1,4 +1,9 @@
-### Hi there 👋
+![Elliot Betancourt: Software Developer and AI Engineer - elliotbetancourt.com](images/minimalist-header.png)
+
+## Hi there 👋, I'm Elliot Betancourt a...
+
+- Software Engineer
+- AI ~~Enthusiast~~ Engineer
 
 <!--
 **ebetancourt/ebetancourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
